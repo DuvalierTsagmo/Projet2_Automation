@@ -12,8 +12,6 @@ package maisonIntelligente;
 // Classe qui définit les caractéristiques d'une chambre
 public final class Chambre extends Piece {
     int nombreFenetres;
-
-
     // Constructeur
     public Chambre(String nom, int superficie, int nombreFenetres) {
         super(nom, superficie);
