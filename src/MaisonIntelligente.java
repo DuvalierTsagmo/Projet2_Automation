@@ -1,3 +1,11 @@
+/*
+  Titre      : Titre du programme
+  Auteur     : Duvalier Tsagmo
+  Date       : 10/02/2023
+  Description: Une description du programme
+  Version    : 0.0.1
+*/
+
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
