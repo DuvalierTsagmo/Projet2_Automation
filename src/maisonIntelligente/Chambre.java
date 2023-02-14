@@ -6,7 +6,6 @@
   Version    : 0.0.1
 */
 
-
 package maisonIntelligente;
 
 // Classe qui définit les caractéristiques d'une chambre
