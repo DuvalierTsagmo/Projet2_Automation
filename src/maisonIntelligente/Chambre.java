@@ -16,6 +16,7 @@ public final class Chambre extends Piece {
         super(nom, superficie);
         this.nombreFenetres = nombreFenetres;
     }
+    
 
     // Override pour allumer les lumières dans la chambre
     @Override
