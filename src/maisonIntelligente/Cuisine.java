@@ -6,8 +6,6 @@
   Version    : 0.0.1
 */
 
-
-
 package maisonIntelligente;
 
 // Classe qui définit les caractéristiques d'une cuisine
@@ -32,7 +30,7 @@ public final class Cuisine extends Piece {
         System.out.println("Les lumières de la cuisine " + this.getNom() + " sont éteintes.");
     }
 
-    protected void finalize(){
+    protected void finalize() {
         System.out.println("ferme toute les lumieres de la ma maison intelligente");
     }
 

@@ -6,9 +6,7 @@
   Version    : 0.0.1
 */
 
-
 package maisonIntelligente;
-
 
 // Classe qui définit les caractéristiques d'un garage
 public final class Garage extends Piece {
@@ -31,7 +29,8 @@ public final class Garage extends Piece {
     public void eteindreLumieres() {
         System.out.println("Les lumières du garage " + this.getNom() + " sont éteintes.");
     }
-    protected void finalize(){
+
+    protected void finalize() {
         System.out.println("quelque chose");
     }
 }

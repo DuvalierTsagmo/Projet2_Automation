@@ -6,8 +6,6 @@
   Version    : 0.0.1
 */
 
-
-
 // Package qui contient les classes pour la simulation de la maison intelligente
 package maisonIntelligente;
 
