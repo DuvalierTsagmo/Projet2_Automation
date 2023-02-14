@@ -1,8 +1,8 @@
 /*
-  Titre      : Titre du programme
+  Titre      : classe garage
   Auteur     : Duvalier Tsagmo
   Date       : 10/02/2023
-  Description: Une description du programme
+  Description: vas contenir les propriete d'un garage
   Version    : 0.0.1
 */
 

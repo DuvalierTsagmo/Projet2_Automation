@@ -1,8 +1,8 @@
 /*
-  Titre      : Titre du programme
+  Titre      : classe principale
   Auteur     : Duvalier Tsagmo
   Date       : 10/02/2023
-  Description: Une description du programme
+  Description: qui vas contenir le menu du programme
   Version    : 0.0.1
 */
 

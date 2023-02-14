@@ -33,7 +33,7 @@ public final class Cuisine extends Piece {
     }
 
     protected void finalize(){
-        System.out.println("quelque chose");
+        System.out.println("ferme toute les lumieres de la ma maison intelligente");
     }
 
 }

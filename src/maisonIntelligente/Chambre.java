@@ -1,8 +1,8 @@
 /*
-  Titre      : Titre du programme
+  Titre      : classe chambre
   Auteur     : Duvalier Tsagmo
   Date       : 10/02/2023
-  Description: Une description du programme
+  Description: vas contenir les proprieter d'une chambre
   Version    : 0.0.1
 */
 
@@ -16,7 +16,7 @@ public final class Chambre extends Piece {
         super(nom, superficie);
         this.nombreFenetres = nombreFenetres;
     }
-    
+
 
     // Override pour allumer les lumières dans la chambre
     @Override
