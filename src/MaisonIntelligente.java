@@ -4,6 +4,7 @@
   Date       : 10/02/2023
   Description: qui vas contenir le menu du programme
   Version    : 0.0.1
+  lien gitHurb: https://github.com/DuvalierTsagmo/Projet2_Automation
 */
 
 import java.util.InputMismatchException;
